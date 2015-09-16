@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+		xmlns:gap   = "http://phonegap.com/ns/1.0"
+		id          = "com.appheater.oliphi"
+		versionCode = "11" 
+		version     = "1.1" >	
+	<name>爐心私語</name>
+	<description>擦過身邊事物太多,而時間太少;用相片,用文字一一記低,作為美好的回憶</description>
+	<author href="http://webscrew.com" email="alankwok@yahoo.com">webscrew.com</author>
+	<preference name="permissions" value="none" />
+	<icon src="icons/apple-touch-icon-57-precomposed.png" gap:platform="ios" width="57" height="57" />
+	<icon src="icons/apple-touch-icon-72-precomposed.png" gap:platform="ios" width="72" height="72" />
+	<icon src="icons/apple-touch-icon-114-precomposed.png" gap:platform="ios" width="114" height="114" />		
+	<icon src="icons/apple-touch-icon-144-precomposed.png" gap:platform="ios" width="144" height="144" />	
+	<icon src="icons/android-ldpi.png" gap:platform="android" gap:density="ldpi" />
+	<icon src="icons/android-mdpi.png" gap:platform="android" gap:density="mdpi" />
+	<icon src="icons/android-hdpi.png" gap:platform="android" gap:density="hdpi" />
+	<icon src="icons/android-xhdpi.png" gap:platform="android" gap:density="xhdpi" />
+	<icon src="icons/winphone-icon.png" gap:platform="winphone" />
+	<icon src="icons/winphone-tileicon.png" gap:platform="winphone" gap:role="background" />	
+</widget>
+
+
